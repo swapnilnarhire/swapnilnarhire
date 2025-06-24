@@ -64,6 +64,8 @@ My focus is on **clean architecture**, **performance optimization**, and **devel
 
 ![Swapnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnilnarhire&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilnarhire&layout=compact&theme=github_dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnilnarhire&theme=github-compact)
+
 
 ---
 
